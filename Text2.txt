@@ -1,0 +1,3 @@
+Its a try from Johnn in freature branch > Text2.txt
+
+echo Its a try from Johnn in freature branch
